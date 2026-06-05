@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+}
+
+textarea {
+    width: 500px;
+    height: 120px;
+    padding: 10px;
+}
+
+select,
+button {
+    padding: 10px;
+    margin: 10px;
+}
+
+.output {
+    width: 500px;
+    min-height: 100px;
+    background: white;
+    margin: auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
